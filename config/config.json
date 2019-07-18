@@ -1,1 +1,8 @@
-{}
+{
+  "connections": {
+    "ali": {
+      "connection_string": "mongodb://101.132.46.146/mangguojie",
+      "connection_options": {}
+    }
+  }
+}
